@@ -65,4 +65,4 @@ To run this project, you'll need **Python 3.7+** and **pip** installed on your s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/revisiting-vaccine-visualizations.git
+   git clone https://github.com/usama031/revisiting-vaccine-visualizations.git
